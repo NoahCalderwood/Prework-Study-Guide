@@ -20,6 +20,12 @@ h2 {
     text-align: center;
 }
 
+h3 {
+    text-align: center;
+    color: rgb(60, 235, 60);
+    font-style: italic;
+}
+
 img {
     display: block;
     height: 50px;
@@ -32,6 +38,11 @@ ul {
     padding-left: 40px;
     font-size: 20px;
 }
+
+ol {
+    padding-left: 30px;
+    color: yellow
+  }
 
 p {
     text-align: center;
@@ -46,4 +57,5 @@ p {
     background-color: rgba(0, 0, 255, 0.699);
     color: white;
   }
+
   
